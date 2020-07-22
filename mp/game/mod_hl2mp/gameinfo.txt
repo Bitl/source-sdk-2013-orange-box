@@ -1,9 +1,9 @@
 "GameInfo"
 {
-	game	"My First HL2MP Mod"
+	game	"The Orange Box"
 	title	"HALF+LIFE'"
-	title2	"deathmatch mod"
-	type multiplayer_only
+	title2	""
+	type multiplayer_only // need this for TF.
 	nomodels 0
 	nohimodel 1
 	nocrosshair 1
